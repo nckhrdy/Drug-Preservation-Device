@@ -1,10 +1,15 @@
-# EK210-A1-DrugDevCode
+Nicholas Hardy 
+BU ENG 24'
 
-To run this file upload it to either an arduino uno or nano board via the correct port selection. 
+#Project: EK210-A1-DrugDevCode
 
-In order for all of the compnents to run correctly the board needs to be powered with at least 5V and 3amps. 
+#Summary
 
-The peltier modules work more efficiently if the current is constant rather than the voltage
+Intended for use on Arduino Uno or Arduino Nano board that is being powered with a constant current of 3amps and by at least 5V. 
+
+The Arduino is controlling the internal temperature of a thermus that has been filled with expanding foam, a copper cylinder and a copper plate that is in contact with a Peltier device. The Peltier device is what heats and cools the interior depending on the temperature range constraints.
+
+One of the device constraints is that it must be portable and must be powered by a 5v usb port in a car. The testing was succesful in a car and the desired temperature was acheived at multiple different ranges.
 
 
 # Prototype Slides 
