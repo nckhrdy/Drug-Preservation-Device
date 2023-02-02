@@ -1,9 +1,9 @@
 Nicholas Hardy 
 BU ENG 24'
 
-#Project: EK210-A1-DrugDevCode
+# Project: EK210-A1-DrugDevCode
 
-#Summary
+# Summary
 
 Intended for use on Arduino Uno or Arduino Nano board that is being powered with a constant current of 3amps and by at least 5V. 
 
